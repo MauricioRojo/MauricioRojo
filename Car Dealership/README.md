@@ -1,56 +1,74 @@
-Description
-This was a project done among three people, myself included. Its meant to be a basic replication of how a car dealership can keep track of sales, customers, update inventory, provide refunds,
-display all cars in the invetory and other details. 
+## Description
+This project was developed by a team of three, including myself. It is designed to replicate the basic functionalities of a car dealership system, allowing the dealership to keep track of sales, manage customers, update inventory, process refunds, and display all cars in the inventory along with other relevant details.
 
-Features
-For inventory, after providing the right credentials, an admin can update the inventory of cars. This includes changing car prices, adding or removing from the inventory, and get sales
-demographics depending on new or old cars, or by car type. 
-A customer can request for a refund. If there is evidence the user purchased in the Ticket.txt file, then it will allow for a refund. The user will get all their money back and the 
-inventory will be updated.
-New customers can be added to the system by an admin, where basic information will be needed. 
-There is also a memebership in which the user can apply for which will apply a discount to their purchase, If the user doesnt have it it isnt applied.
-The user can filter through cars, it can display available new or used cars, depending on the user's choice. 
-User information and car inventory is stored inside of CSV files. If a CSV is in a different order or out of order, it will sort the columns for easier access to that information instead
-of having to search each column name every time. 
-
-Technical Overview
-Admin.java
-  This is the Admin class allowed to edit the CSV files with all information in it as well as check Tickets to get total profits. 
-AdminTest.java
-  A file used to testing that the right values are given depending on what is required.
-Car.java
-  Is a parent class with all the variables a car will have. It will choose what type of car to create depending on what the parameter type is.
-car_data.csv
-  Contains the car inventory along with all information about them. The variables are: ID, VIN, price, model, capacity, color, year, fuel type, car availability, condition, transmission,
-  car type, hasTurbo
-Hatchback.java
-  This is a subclass for the Car parent class. This creates an object of type Hatchback.
-inventoryManager.java
-  This is an interface that will give the Admin the ability to add cars to the inventory, remove cars from inventory, get profits and add new customers. 
-Log.java
-  This writes every activity going on in the system, from customers and admins logging in, if a purchase was made or a car was returned, if someone logs out, or inventory is changed among others.
-  The logs are then written in the the Logs.txt file.
-Logs.txt
-  Contains the logs of all activites that happen inside of the system that were written by Log.java
-Pickup.java
-  This is a subclass for the Car parent class. This creates an object of type Pickup.
-RunShop.java
-  This is the main where everything runs. It asks for a password from a user or an admin. Depending on what is given different menu's will be displayed and different things can be done. 
+## Features
+- **Inventory Management:** 
+  - Admins, upon providing the correct credentials, can update the inventory of cars. This includes changing car prices, adding or removing cars from the inventory, and generating sales demographics based on new or old cars or by car type.
   
-Sedan.java
-  This is a subclass for the Car parent class. This creates an object of type Sedan.
-SUV.java
-  This is a subclass for the Car parent class. This creates an object of type SUV.
-Ticket.java
-  This will create tickets for all purchased cars, it gets the VIN number, type of car, id of customer, owner first name, owner last name, car id, car model, car color and price.
-  Once the string is created it is then written into the Ticket.txt file to be stored.
-Ticket.txt
-  This stores all written tickets of purchases that were written onto it by Ticket.java
-User.java
-  This is a class for creating customers, the customers that are only able to look at the inventory, purchase cars and make returns. 
-user_data.csv
-  Contains every customers information. It contains ID, first name, last name, username, password, MinerCars Membership, money average, cars purchased.
-Vehicle.java
-  The Vehicle class possess all details about the car that is inside of the csv and create an object with it. 
-  It is an abstract class that is used inside of the Car class to create a vehicle of a certain type. 
+- **Refund Processing:** 
+  - Customers can request a refund. If the purchase is verified in the `Ticket.txt` file, the refund is processed, and the inventory is updated accordingly.
+  
+- **Customer Management:** 
+  - Admins can add new customers to the system by providing basic information. Customers can also apply for a membership, which grants them a discount on purchases. If a user doesn’t have a membership, the discount will not be applied.
+
+- **Car Filtering:** 
+  - Users can filter cars by various criteria, including availability of new or used cars. The system displays cars based on the user's preferences.
+
+- **Data Storage:** 
+  - User information and car inventory are stored in CSV files. If the CSV files are unordered or misaligned, the system automatically sorts the columns for easier access, eliminating the need to manually search each column name.
+
+## Technical Overview
+
+### Classes & Files
+
+- **`Admin.java`:** 
+  - Manages the editing of CSV files containing all the dealership's information and checks tickets to calculate total profits.
+  
+- **`AdminTest.java`:** 
+  - Contains tests to ensure that the correct values are provided based on the system's requirements.
+  
+- **`Car.java`:** 
+  - Serves as the parent class for all car types, holding all relevant variables for a car. It determines the type of car to create based on the parameters provided.
+  
+- **`car_data.csv`:** 
+  - Stores the car inventory along with all relevant details. Variables include: ID, VIN, price, model, capacity, color, year, fuel type, availability, condition, transmission, car type, hasTurbo.
+  
+- **`Hatchback.java`:** 
+  - Subclass of `Car` that creates objects of type Hatchback.
+  
+- **`inventoryManager.java`:** 
+  - Interface that provides Admins the ability to add cars to the inventory, remove cars from inventory, calculate profits, and add new customers.
+  
+- **`Log.java`:** 
+  - Records every activity in the system, such as customer and admin logins, purchases, returns, logouts, and inventory changes. These logs are written to the `Logs.txt` file.
+  
+- **`Logs.txt`:** 
+  - Contains logs of all activities within the system as recorded by `Log.java`.
+  
+- **`Pickup.java`:** 
+  - Subclass of `Car` that creates objects of type Pickup.
+  
+- **`RunShop.java`:** 
+  - The main class that runs the application. It prompts users or admins for a password and displays different menus based on their role.
+  
+- **`Sedan.java`:** 
+  - Subclass of `Car` that creates objects of type Sedan.
+  
+- **`SUV.java`:** 
+  - Subclass of `Car` that creates objects of type SUV.
+  
+- **`Ticket.java`:** 
+  - Generates tickets for all purchased cars, capturing details such as VIN, car type, customer ID, owner's first and last name, car ID, car model, car color, and price. This information is then written to the `Ticket.txt` file.
+  
+- **`Ticket.txt`:** 
+  - Stores all purchase tickets generated by `Ticket.java`.
+  
+- **`User.java`:** 
+  - Manages customer creation, allowing customers to view inventory, purchase cars, and make returns.
+  
+- **`user_data.csv`:** 
+  - Contains all customer information, including ID, first name, last name, username, password, MinerCars Membership status, average money spent, and cars purchased.
+  
+- **`Vehicle.java`:** 
+  - An abstract class that encapsulates all details about a car stored in the CSV file and creates an object representing that car. It is used within the `Car` class to create specific types of vehicles.
   
