@@ -1,0 +1,256 @@
+2024-04-07T20:31:09.447087 User: jasonbourne has logged in.
+2024-04-07T20:31:10.640280900 User jasonbourne has signed out.
+2024-04-07T20:33:08.293378600 User: jasonbourne has logged in.
+2024-04-07T20:33:10.830129800 User jasonbourne has signed out.
+2024-04-07T20:33:26.922463200 User: jasonbourne has logged in.
+2024-04-07T20:33:28.196155800 User jasonbourne has signed out.
+2024-04-07T21:15:22.436912700 User: jasonbourne has logged in.
+2024-04-07T21:15:24.480441300 User: jasonbourne has chosen to see all cars.
+2024-04-07T21:15:26.605995200 User: jasonbournewants to filter cars to see.
+2024-04-07T21:15:27.580768100 User: jasonbournewants to see new cars only.
+2024-04-07T21:15:30.703597100 User jasonbourne wants to view tickets.
+2024-04-07T21:15:33.181051500 User jasonbourne has signed out.
+2024-04-07T21:15:46.756867200 Admin: Mauricio has logged in.
+2024-04-07T21:15:48.485271700 Admin Mauricio wants to view the logs.
+2024-04-07T21:15:50.260174100 Admin Mauricio wants to view all tickets.
+2024-04-07T21:16:03.360925200 Admin Mauricio is updating the inventory.
+2024-04-07T21:16:46.722929600 Admin: Mauricio has logged in.
+2024-04-07T21:16:48.487533400 Admin Mauricio is updating the inventory.
+2024-04-07T21:19:26.162850200 Admin: Mauricio has logged in.
+2024-04-07T21:19:27.305610800 Admin Mauricio is updating the inventory.
+2024-04-07T21:19:58.291563300 User: jasonbourne has logged in.
+2024-04-07T21:19:59.284681500 User jasonbourne wants to purchase a car
+2024-04-07T23:06:06.347244800 Admin: Mauricio has logged in.
+2024-04-07T23:06:11.114174300 Admin Mauricio is updating the inventory.
+2024-04-07T23:06:26.707100 Admin Mauricio is updating the inventory.
+2024-04-07T23:06:32.985290600 Admin Mauricio is updating the inventory.
+2024-04-07T23:06:46.155079900 Admin Mauricio is updating the inventory.
+2024-04-07T23:06:55.014133400 Admin Mauricio is updating the inventory.
+2024-04-07T23:13:03.281496700 Admin: Mauricio has logged in.
+2024-04-07T23:13:04.489293 Admin Mauricio is updating the inventory.
+2024-04-07T23:18:03.676276800 Admin: Mauricio has logged in.
+2024-04-07T23:18:04.947294400 Admin Mauricio is updating the inventory.
+2024-04-07T23:18:45.362799600 Admin: Mauricio has logged in.
+2024-04-07T23:18:46.424655800 Admin Mauricio is updating the inventory.
+2024-04-07T23:20:17.041073100 Admin: Mauricio has logged in.
+2024-04-07T23:20:18.157035100 Admin Mauricio is updating the inventory.
+2024-04-07T23:21:21.765434300 Admin: Mauricio has logged in.
+2024-04-07T23:21:37.306548800 Admin Mauricio is updating the inventory.
+2024-04-07T23:21:52.286025400 Admin Mauricio is updating the inventory.
+2024-04-07T23:22:03.171527300 Admin Mauricio is updating the inventory.
+2024-04-07T23:22:08.122243 Admin Mauricio is updating the inventory.
+2024-04-07T23:22:19.624735200 Admin Mauricio is updating the inventory.
+2024-04-07T23:22:27.372270700 Admin Mauricio is updating the inventory.
+2024-04-07T23:22:36.797586 Admin Mauricio is updating the inventory.
+2024-04-07T23:22:44.636447800 Admin Mauricio is updating the inventory.
+2024-04-07T23:22:49.533187800 Admin Mauricio is updating the inventory.
+2024-04-07T23:23:06.414358300 Admin Mauricio is updating the inventory.
+2024-04-10T12:04:56.340543800 User: atticusfinch has logged in.
+2024-04-10T12:05:06.376627700 User: atticusfinch has chosen to see all cars.
+2024-04-10T12:05:23.421761300 User: atticusfinchwants to filter cars to see.
+2024-04-10T12:05:26.426382 User: atticusfinchwants to see new cars only.
+2024-04-10T12:05:40.040129800 User: atticusfinchwants to filter cars to see.
+2024-04-10T12:05:43.551356 User: atticusfinchwants to see used cars only.
+2024-04-10T12:06:50.581842300 User atticusfinch wants to purchase a car
+2024-04-10T12:07:12.744528200 User atticusfinch wants to purchase a car
+2024-04-10T12:07:30.778016 User atticusfinch wants to view tickets.
+2024-04-10T12:08:18.614838700 User atticusfinch has signed out.
+2024-04-12T21:45:30.230948100 Admin: Tony has logged in.
+2024-04-12T21:45:31.782144200 User tonystark has signed out.
+2024-04-12T22:00:08.097435500 Admin: Morpheus has logged in.
+2024-04-12T22:00:12.686319400 User: morpheus has chosen to see all cars.
+2024-04-12T22:01:03.126834800 Admin: Morpheus has logged in.
+2024-04-12T22:01:04.880637300 User: morpheus has chosen to see all cars.
+2024-04-12T22:01:08.521435900 User: morpheuswants to filter cars to see.
+2024-04-12T22:01:10.478284800 User: morpheuswants to see new cars only.
+2024-04-12T22:01:21.746834100 User: morpheuswants to filter cars to see.
+2024-04-12T22:01:24.270160600 User: morpheuswants to see used cars only.
+2024-04-12T22:01:30.312419800 User morpheus has signed out.
+2024-04-12T22:17:13.386767600 Admin: Jason has logged in.
+2024-04-12T22:17:15.947489 User jasonbourne has signed out.
+2024-04-12T22:18:35.855114700 Admin: Hermione has logged in.
+2024-04-12T22:18:41.001238200 User hermionegranger has signed out.
+2024-04-12T22:18:52.844798 Admin: Rick has logged in.
+2024-04-12T22:18:58.619870 User rickblaine has signed out.
+2024-04-12T23:20:59.230255900 Admin: Jason has logged in.
+2024-04-12T23:21:07.336534700 User jasonbourne wants to purchase a car
+2024-04-12T23:26:23.971463100 Admin: Jason has logged in.
+2024-04-12T23:26:25.137697200 User jasonbourne wants to purchase a car
+2024-04-13T17:53:52.821078500 Admin: Captain has logged in.
+2024-04-13T17:53:54.417578300 User captainjacksparrow wants to purchase a car
+2024-04-13T17:54:33.068329200 User captainjacksparrow wants to purchase a car
+2024-04-13T19:07:20.208606100 Admin: Captain has logged in.
+2024-04-13T19:07:23.145601300 User captainamerica wants to purchase a car
+2024-04-13T19:09:49.756588200 Admin: Captain has logged in.
+2024-04-13T19:09:51.097991700 User captainamerica wants to purchase a car
+2024-04-13T19:11:40.767213600 Admin: Captain has logged in.
+2024-04-13T19:11:42.334088100 User captainamerica wants to purchase a car
+2024-04-13T19:12:24.760504100 User captainamerica has signed out.
+2024-04-13T19:13:19.370028300 Admin: Captain has logged in.
+2024-04-13T19:13:20.649560100 User captainamerica wants to purchase a car
+2024-04-13T20:33:47.824289100 Admin: Atticus has logged in.
+2024-04-13T20:33:49.277386800 User atticusfinch wants to purchase a car
+2024-04-13T20:38:09.069676600 Admin: Atticus has logged in.
+2024-04-13T20:38:18.276539200 User atticusfinch wants to purchase a car
+2024-04-13T21:34:24.764343 Admin: Atticus has logged in.
+2024-04-13T21:34:26.248774600 User atticusfinch wants to purchase a car
+2024-04-13T21:45:28.564337500 Admin: Atticus has logged in.
+2024-04-13T21:45:33.633306700 User atticusfinch wants to purchase a car
+2024-04-13T21:48:25.682713200 Admin: Atticus has logged in.
+2024-04-13T21:48:31.186752700 User atticusfinch wants to purchase a car
+2024-04-13T21:50:27.544382200 Admin: Atticus has logged in.
+2024-04-13T21:50:28.007648900 User atticusfinch wants to purchase a car
+2024-04-13T21:52:57.950022200 Admin: Atticus has logged in.
+2024-04-13T21:52:59.027983400 User atticusfinch wants to purchase a car
+2024-04-13T21:53:47.514231700 Admin: Atticus has logged in.
+2024-04-13T21:53:53.269753600 User atticusfinch wants to purchase a car
+2024-04-13T21:55:38.536400500 Admin: Atticus has logged in.
+2024-04-13T21:55:39.873835400 User atticusfinch wants to purchase a car
+2024-04-13T21:56:20.255457500 Admin: Atticus has logged in.
+2024-04-13T21:56:25.195011300 User atticusfinch wants to purchase a car
+2024-04-14T16:49:52.447689200 Admin: Atticus has logged in.
+2024-04-14T16:50:04.287484700 User atticusfinch wants to purchase a car
+2024-04-14T17:49:32.524362100 Admin: Atticus has logged in.
+2024-04-14T17:49:33.575821 User atticusfinch wants to purchase a car
+2024-04-14T17:52:27.216531100 Admin: Atticus has logged in.
+2024-04-14T17:52:28.616632200 User atticusfinch wants to purchase a car
+2024-04-14T17:56:52.723975500 Admin: Atticus has logged in.
+2024-04-14T17:56:53.768580200 User atticusfinch wants to purchase a car
+2024-04-14T18:00:02.166013100 Admin: Atticus has logged in.
+2024-04-14T18:00:03.816467900 User atticusfinch wants to purchase a car
+2024-04-14T18:04:47.120140100 Admin: Atticus has logged in.
+2024-04-14T18:04:51.432937900 User atticusfinch wants to purchase a car
+2024-04-14T18:26:24.165668600 Admin: Atticus has logged in.
+2024-04-14T18:26:50.782127900 User atticusfinch wants to purchase a car
+2024-04-14T18:28:34.981145100 User atticusfinch has signed out.
+2024-04-17T13:52:25.028616600 Customer: Frodo has logged in.
+2024-04-17T13:52:29.068707300 User frodobaggins wants to purchase a car
+2024-04-17T13:52:47.022897500 User frodobaggins has signed out.
+2024-04-17T13:54:34.581787500 Customer: Atticus has logged in.
+2024-04-17T13:54:37.017931300 User atticusfinch wants to purchase a car
+2024-04-17T13:54:49.375731100 User atticusfinch has signed out.
+2024-04-17T14:09:28.186870800 Customer: Atticus has logged in.
+2024-04-17T14:09:29.427010900 User atticusfinch wants to purchase a car
+2024-04-17T14:16:49.071471200 Customer: Atticus has logged in.
+2024-04-17T14:16:50.721988200 User atticusfinch wants to view tickets.
+2024-04-17T14:39:20.862590500 Customer: John has logged in.
+2024-04-17T14:39:22.541152300 User johnwick wants to purchase a car
+2024-04-17T14:39:49.633359700 User johnwick has signed out.
+2024-04-17T17:55:11.660134800 Customer: Dorothy has logged in.
+2024-04-17T17:55:14.771289300 User: dorothygale has chosen to see all cars.
+2024-04-17T17:55:16.598146600 User: dorothygalewants to filter cars to see.
+2024-04-17T17:55:17.821723100 User: dorothygalewants to see new cars only.
+2024-04-17T17:55:19.748955500 User dorothygale wants to purchase a car
+2024-04-17T17:55:39.801858200 User dorothygale wants to view tickets.
+2024-04-17T17:55:41.902319 User dorothygale has signed out.
+2024-04-17T17:56:04.433598300 Admin wants to view the logs.
+2024-04-17T17:56:05.531931300 Admin wants to view all tickets.
+2024-04-17T17:56:13.759692700 Admin is adding a new customer into the system.
+2024-04-18T17:08:39.970098500 Customer: Hermione has logged in.
+2024-04-18T17:08:41.399881800 User hermionegranger wants to purchase a car
+2024-04-18T17:13:24.472410700 Customer: Hermione has logged in.
+2024-04-18T17:13:25.611602600 User hermionegranger wants to purchase a car
+2024-04-18T21:38:35.924668400 Customer: Hermione has logged in.
+2024-04-18T21:40:44.595157700 Customer: Hermione has logged in.
+2024-04-18T21:41:05.109942400 User hermionegranger wants to return a car
+2024-04-18T21:42:00.293010900 Customer: Hermione has logged in.
+2024-04-18T21:42:03.688633400 User hermionegranger wants to return a car
+2024-04-18T21:42:23.293106900 Customer: Hermione has logged in.
+2024-04-18T21:42:25.157962600 User hermionegranger wants to return a car
+2024-04-18T22:25:21.302225700 Customer: Atticus has logged in.
+2024-04-18T22:25:22.344824200 User atticusfinch wants to purchase a car
+2024-04-18T22:25:30.263884800 User atticusfinch wants to return a car
+2024-04-20T17:17:43.914477500 Customer: Atticus has logged in.
+2024-04-20T17:17:46.506999900 User atticusfinch wants to purchase a car
+2024-04-20T17:18:31.141114600 Customer: Atticus has logged in.
+2024-04-20T17:18:34.011056300 User atticusfinch wants to view tickets.
+2024-04-20T17:20:18.748358700 User atticusfinch wants to return a car
+2024-04-20T18:40:53.610990900 Customer: Atticus has logged in.
+2024-04-20T18:41:02.680408 User atticusfinch has signed out.
+2024-04-20T18:41:05.055539400 User atticusfinch has signed out.
+2024-04-20T18:41:10.233448300 User atticusfinch has signed out.
+2024-04-20T18:41:36.959165700 Customer: Atticus has logged in.
+2024-04-20T18:41:39.455444800 User atticusfinch has signed out.
+2024-04-20T18:41:48.137220800 Admin is adding a new car into the inventory.
+2024-04-20T19:18:17.295690200 Admin wants to view the logs.
+2024-04-20T19:18:40.514116200 Admin wants to view all tickets.
+2024-04-20T19:18:42.162067600 Admin wants to view the logs.
+2024-04-20T19:18:52.889635 Admin is adding a new car into the inventory.
+2024-04-20T19:20:16.285961 Admin is adding a new car into the inventory.
+2024-04-20T19:21:01.262028600 Admin is adding a new car into the inventory.
+2024-04-20T19:24:24.078228700 Admin is adding a new car into the inventory.
+2024-04-20T19:28:47.264967800 Admin is adding a new car into the inventory.
+2024-04-20T19:29:48.895612300 Admin deleting a car from the inventory.
+2024-04-20T19:30:30.947084700 Admin is adding a new customer into the system.
+2024-04-20T19:31:02.236194500 Admin is checking profits.
+2024-04-20T19:31:21.958657700 Admin wants to view the logs.
+2024-04-20T19:31:29.067849700 Admin is signing out.
+2024-04-20T19:43:26.717729200 Customer: Hermione has logged in.
+2024-04-20T19:43:29.561449200 User hermionegranger wants to return a car
+2024-04-20T19:48:32.168249900 Customer: Hermione has logged in.
+2024-04-20T19:48:36.216768 User hermionegranger wants to view tickets.
+2024-04-20T19:48:41.113987800 User hermionegranger wants to return a car
+2024-04-20T19:52:47.684765 Customer: Hermione has logged in.
+2024-04-20T19:52:49.896652300 User hermionegranger wants to purchase a car
+2024-04-20T19:53:16.974858700 User hermionegranger wants to view tickets.
+2024-04-20T19:53:19.176435400 User hermionegranger wants to return a car
+2024-04-20T19:56:04.727625600 User hermionegranger wants to view tickets.
+2024-04-20T19:56:07.129804400 User hermionegranger wants to return a car
+2024-04-20T21:04:59.618774700 Admin is checking profits.
+2024-04-20T21:05:01.331522700 Admin is checking profits from a specific car type.
+2024-04-20T21:05:14.825293600 Admin is checking profits.
+2024-04-20T21:05:17.342570 Admin is checking profits from a specific car type.
+2024-04-20T22:12:41.604764900 Admin is adding a new customer into the system.
+2024-04-20T22:14:47.027374800 Admin deleting a car from the inventory.
+2024-04-20T22:15:00.602881 Admin is adding a new customer into the system.
+2024-04-20T22:15:31.060249200 Admin is adding a new customer into the system.
+2024-04-20T22:18:04.370024100 Admin is adding a new customer into the system.
+2024-04-20T22:21:05.483516500 Admin is adding a new customer into the system.
+2024-04-23T14:57:01.314939700 Admin wants to view the logs.
+2024-04-23T14:57:15.319460900 Admin is adding a new car into the inventory.
+2024-04-23T15:00:28.449615 Admin is adding a new customer into the system.
+2024-04-23T15:01:16.647035600 Admin is signing out.
+2024-04-23T15:01:50.216658 Customer: Sherlock has logged in.
+2024-04-23T15:01:57.687674 User: sherlockholmes has chosen to see all cars.
+2024-04-23T15:02:25.775843900 User sherlockholmes wants to purchase a car
+2024-04-23T15:02:54.536189600 User sherlockholmes wants to view tickets.
+2024-04-23T15:03:08.411403 User sherlockholmes has signed out.
+2024-04-23T15:03:21.494930 Admin is checking profits.
+2024-04-23T15:04:02.706006900 Admin is checking profits.
+2024-04-23T15:04:22.774581100 Admin deleting a car from the inventory.
+2024-04-26T17:03:46.093109200 Customer: Wolverine has logged in.
+2024-04-26T17:03:49.737742400 User wolverine wants to purchase a car
+2024-04-26T17:08:29.912109 User: wolverine has chosen to see all cars.
+2024-04-26T17:08:32.787449 User: wolverinewants to filter cars to see.
+2024-04-26T17:08:33.940788200 User: wolverinewants to see new cars only.
+2024-04-26T17:08:41.485333600 User wolverine wants to view tickets.
+2024-04-26T17:08:51.194617400 User wolverine wants to return a car
+2024-04-26T17:09:18.322564500 User wolverine has signed out.
+2024-04-26T17:09:29.424510700 Admin wants to view the logs.
+2024-04-26T17:09:32.370005400 Admin wants to view all tickets.
+2024-04-26T17:09:43.291837700 Admin is checking profits.
+2024-04-26T17:09:55.620548500 Admin is signing out.
+2024-04-26T22:14:25.098066300 Admin is checking profits.
+2024-04-26T22:14:27.940247100 Admin is checking profits from a specific car type.
+2024-04-26T22:14:31.838433600 Admin is checking profits.
+2024-04-26T23:33:02.156943400 Admin is adding a new car into the inventory.
+2024-04-26T23:35:03.903846 Admin is adding a new car into the inventory.
+2024-04-26T23:35:53.620150800 Admin is adding a new car into the inventory.
+2024-04-26T23:37:05.093715 Admin is adding a new car into the inventory.
+2024-04-26T23:38:48.004334700 Admin is adding a new car into the inventory.
+2024-04-26T23:41:35.279508 Customer: Michael has logged in.
+2024-04-26T23:41:37.823500600 User michaelcorleone wants to purchase a car
+2024-04-26T23:42:05.512691200 User michaelcorleone has signed out.
+2024-04-26T23:42:28.703020200 Customer: Wolverine has logged in.
+2024-04-26T23:42:30.129066 User wolverine wants to purchase a car
+2024-04-26T23:42:44.158578900 User wolverine has signed out.
+2024-04-26T23:42:52.530990 Admin is checking profits.
+2024-04-26T23:43:01.532758400 Admin is checking profits from a specific car type.
+2024-04-26T23:43:07.209358500 Admin is checking profits.
+2024-04-26T23:43:09.768293900 Admin is checking profits from a specific car type.
+2024-04-26T23:43:14.796507400 Admin is checking profits.
+2024-04-26T23:43:17.840504700 Admin is checking profits from a specific car type.
+2024-04-26T23:43:22.757642200 Admin is checking profits.
+2024-04-26T23:43:24.821698 Admin is checking profits from a specific car type.
+2024-04-27T16:30:22.412256800 Customer: Gandalf has logged in.
+2024-04-27T16:30:26.295502800 User gandalf wants to purchase a car

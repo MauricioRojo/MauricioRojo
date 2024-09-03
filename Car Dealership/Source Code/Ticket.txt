@@ -1,0 +1,7 @@
+OwnerID,OwnerFirstName,OwnerLastName,CarID,CarType,CarModel,VIN,Color,Price
+13,John,Wick,16,SUV,Honda CR-V,MPB8BLG5L87JNJU15,Black,30232.68
+1,Hermione,Granger,1,Hatchback,Honda Fit,YNA6L2L65Z33P6C4O,Yellow,30000.0
+1,Hermione,Granger,16,SUV,Honda CR-V,MPB8BLG5L87JNJU15,Black,30232.68
+30,Michael,Corleone,68,Pickup,Ram 1500,9QPIQS2LY95I907MP,Black,31993.05
+11,Wolverine,Wilson,57,Hatchback,Volkswagen Golf,WRCCI30JQ4WFXRGPV,Blue,26171.87
+12,Gandalf,Williams,58,Hatchback,Volkswagen Golf,6T4C75GBOTF2NK613,White,27960.65
